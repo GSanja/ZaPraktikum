@@ -57,7 +57,7 @@
  margin: 2em; 
 }
  .Zastita{
- margin: 4em 0;
+ margin: 6em 0;
     position: relative;
 }
 .Zastita img{
@@ -70,7 +70,7 @@
 }
 
 .contact-form{
- margin: 6em 0;
+ margin: 6em 0 24em;
  position: relative;  
 }
 

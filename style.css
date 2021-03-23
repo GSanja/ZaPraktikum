@@ -44,6 +44,9 @@
   background-color: #0275d8;
   text-decoration: none ;
 }
+.text-center{
+ padding-top: 100px; 
+}
 .Covid h1{
  margin: 2em; 
 }
